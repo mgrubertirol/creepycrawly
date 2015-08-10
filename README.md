@@ -7,8 +7,9 @@ for example, notify a person about a certain market condition.
 
 ## Installation
 
-Make sure Python 3.4 is installed and the executable is included in the path. 
-Run the command `pip install beautifulsoup4` which installs the screen scraper framework.
+1. Make sure Python 3.4 is installed and the executable is included in the path.
+1. Run the command `pip install beautifulsoup4` which installs the screen scraper framework.
+1. Run the command `pip install requests` which installs the requests framework.
 
 
 ## Usage
